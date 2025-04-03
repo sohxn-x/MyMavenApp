@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/vamshika/Desktop/MyMavenApp/target/surefire/surefirebooter4986565810548122108.jar /home/vamshika/Desktop/MyMavenApp/target/surefire 2025-03-13T11-50-51_407-jvmRun1 surefire7580590258245341992tmp surefire_013316555006208813440tmp"/>
+    <property name="sun.java.command" value="/home/vamshika/Desktop/MyMavenApp/target/surefire/surefirebooter8935954649883344307.jar /home/vamshika/Desktop/MyMavenApp/target/surefire 2025-04-02T22-24-53_448-jvmRun1 surefire7614413499041466160tmp surefire_07022827080107274445tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/vamshika/Desktop/MyMavenApp/target/test-classes:/home/vamshika/Desktop/MyMavenApp/target/classes:/home/vamshika/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/vamshika/Desktop/MyMavenApp/target/surefire/surefirebooter4986565810548122108.jar"/>
+    <property name="surefire.real.class.path" value="/home/vamshika/Desktop/MyMavenApp/target/surefire/surefirebooter8935954649883344307.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.26+4-post-Ubuntu-1ubuntu122.04"/>
     <property name="user.name" value="vamshika"/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testApp" classname="com.example.AppTest" time="0.003"/>
+  <testcase name="testApp" classname="com.example.AppTest" time="0.004"/>
 </testsuite>
