@@ -1,4 +1,4 @@
-package com.example;
+package com.example2;
 
 /**
  * Hello world!
@@ -8,7 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "Hi!" );
+        int a=10;
+        int b=10;
+        System.out.println("sum:"+(a+b));
     }
 }
